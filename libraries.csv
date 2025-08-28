@@ -1,0 +1,256 @@
+﻿Sup Dist,Cost Code,Library Name,City,Zip Code,Square Footage,Year Built,Mon,Tue,Wed,Thur,Fri,Sat,Sun,Collection Size,Address and Location,ObjectId
+1,604,Anthony Quinn,Los Angeles,90063,7275,1973,11-8,11/8/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,11-5,11-5,Closed,48134,"3965 Cesar E. Chavez Ave.
+Los Angeles
+(34.0408, -118.18)",1
+1,803,Baldwin Park,Baldwin Park,91706,15555,1969,Closed,12/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,1-8,10-5,10-5,Closed,64948,"4181 Baldwin Park Blvd.
+Baldwin Park
+(34.0881, -117.966)",2
+1,630,Bell,Bell,90201,4863,1960,Closed,10/8/2022 12:00:00 AM,10/6/2022 12:00:00 AM,11-5,11-5,12-5,Closed,36396,"4411 E. Gage Ave.
+Bell
+(33.9783, -118.189)",3
+1,631,Bell Gardens,Bell Gardens,90201,5119,1968,Closed,10/7/2022 12:00:00 AM,10/7/2022 12:00:00 AM,10-7,10-6,10-5,Closed,34771,"7110 S. Garfield Ave.
+Bell Gardens
+(33.9672, -118.151)",4
+1,616,Chet Holifield,Montebello,90640,5500,1969,12-7,12/7/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,Closed,Closed,Closed,31346,"1060 S. Greenwood Ave.
+Montebello
+(33.9935, -118.12)",5
+1,610,City Terrace,Los Angeles,90063,8007,1979,11-6,11/6/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-8,11-5,11-5,Closed,48350,"4025 E. City Terrace Dr.
+Los Angeles
+(34.0557, -118.178)",6
+1,804,Claremont,Claremont,91711,22921,1971,1-8,1/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-8,10-5,10-5,1-5,124665,"208 N. Harvard Ave.
+Claremont
+(34.0959, -117.716)",7
+1,632,Cudahy,Cudahy,90201,4396,1968,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,8-6,8-6,Closed,23081,"5218 Santa Ana St.
+Cudahy
+(33.9593, -118.175)",8
+1,605,East Los Angeles,Los Angeles,90022,26300,2004,10-9,10/9/2022 12:00:00 AM,10/9/2022 12:00:00 AM,10-9,9-5,10-5,1-5,138790,"4837 E. Third St.
+Los Angeles
+(34.0337, -118.16)",9
+1,609,El Camino Real,Los Angeles,90023,5500,1971,11-7,11/7/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,11-5,11-5,Closed,39949,"4264 E. Whittier Blvd.
+Los Angeles
+(34.0237, -118.178)",10
+1,830,El Monte,El Monte,91731,11906,1961,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,9-5,10-5,1-5,53687,"3224 Tyler Ave.
+El Monte
+(34.0671, -118.036)",11
+1,517,Hollydale,South Gate,90280,4800,1966,Closed,12/8/2022 12:00:00 AM,12/6/2022 12:00:00 AM,12-6,12-5,12-5,Closed,44781,"12000 S. Garfield Ave.
+South Gate
+(33.9177, -118.169)",12
+1,633,Huntington Park,Huntington Park,90255,33482,1970,1-8,1/8/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,Closed,10-5,Closed,94437,"6518 Miles Ave.
+Huntington Park
+(33.9804, -118.219)",13
+1,806,La Puente,La Puente,91744,10572,1968,Closed,1/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,10-5,10-5,10-5,Closed,54257,"15920 E. Central Ave.
+La Puente
+(34.0199, -117.951)",14
+1,523,Leland R. Weaver,South Gate,90280,19461,1973,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-5,12-5,1-5,87931,"4035 Tweedy Blvd.
+South Gate
+(33.9441, -118.201)",15
+1,635,Maywood Cesar Chavez,Maywood,90270,3362,1949,12-8,12/8/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,11-5,11-5,Closed,33645,"4323 E. Slauson Ave.
+Maywood
+(33.9876, -118.189)",16
+1,601,Montebello,Montebello,90640,31097,1966,10-8,10/8/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,10-5,10-5,Closed,119976,"1550 W. Beverly Blvd.
+Montebello
+(34.0206, -118.116)",17
+1,832,Norwood,El Monte,91732,10303,1977,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,9-5,10-5,Closed,61473,"4550 N. Peck Rd.
+El Monte
+(34.0868, -118.016)",18
+1,636,Pico Rivera,Pico Rivera,90660,16000,2013,10-6,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,Closed,Closed,10-5,Closed,75188,"9001 Mines Ave.
+Pico Rivera
+(33.9921, -118.08)",19
+1,637,Rivera,Pico Rivera,90660,6724,1969,10-6,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,12-6,Closed,Closed,Closed,39243,"7828 S. Serapis Ave.
+Pico Rivera
+(33.9689, -118.101)",20
+1,624,Rosemead,Rosemead,91770,29860,1965,Closed,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,10-6,12-5,11-5,Closed,131822,"8800 Valley Blvd.
+Rosemead
+(34.0806, -118.078)",21
+1,833,South El Monte,South El Monte,91733,6416,1966,Closed,1/8/2022 12:00:00 AM,10/5/2022 12:00:00 AM,1-8,10-5,10-5,Closed,31680,"1430 N. Central Ave.
+South El Monte
+(34.0449, -118.047)",22
+1,810,Sunkist,La Puente,91746,8314,1977,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,Closed,57584,"840 N. Puente Ave.
+La Puente
+(34.055, -117.978)",23
+1,809,Walnut,Walnut,91789,10000,1985,Closed,1/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,1-8,10-5,10-5,Closed,42464,"21155 La Puente Rd.
+Walnut
+(34.0261, -117.843)",24
+1,801,West Covina,West Covina,91790,42345,1960,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,1-8,10-5,10-5,Closed,153194,"1601 West Covina Parkway
+West Covina
+(34.0707, -117.941)",25
+2,530,A C Bilbrew,Los Angeles,90061,21843,1974,Closed,2/6/2022 12:00:00 AM,2/6/2022 12:00:00 AM,2-6,2-6,11-3,Closed,77306,"150 E. El Segundo Blvd.
+Los Angeles
+(33.9158, -118.272)",26
+2,301,Carson,Carson,90745,33112,1972,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,1-5,139442,"151 E. Carson St.
+Carson
+(33.8321, -118.276)",27
+2,531,Compton,Compton,90220,20542,1975,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,Closed,77457,"240 W. Compton Blvd.
+Compton
+(33.8955, -118.226)",28
+2,330,Culver City Julian Dixon,Culver City,90230,21406,1970,Closed,2/6/2022 12:00:00 AM,2/6/2022 12:00:00 AM,2-6,2-6,11-3,Closed,122774,"4975 Overland Ave.
+Culver City
+(34.0077, -118.397)",29
+2,321,"Dr. Martin Luther King, Jr.",Carson,90746,5024,1973,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,Closed,8-6,Closed,21155,"17906 S. Avalon Blvd.
+Carson
+(33.8677, -118.266)",30
+2,532,East Rancho Dominguez,E. Rancho Dominguez,90221,7215,2012,10-6,10/6/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,11-5,11-5,Closed,39874,"4420 East Rose Street
+E. Rancho Dominguez
+(33.8946, -118.194)",31
+2,533,Florence,Los Angeles,90001,5124,1970,11-7,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-5,11-5,11-5,Closed,52201,"1610 E. Florence Ave.
+Los Angeles
+(33.9744, -118.245)",32
+2,313,Gardena Mayme Dear,Gardena,90247,14122,1964,Closed,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,10-6,10-6,10-6,Closed,104906,"1731 W. Gardena Blvd.
+Gardena
+(33.8822, -118.308)",33
+2,534,Graham,Los Angeles,90001,5125,1969,11-8,11/8/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,11-5,11-5,Closed,50738,"1900 E. Firestone Blvd.
+Los Angeles
+(33.9599, -118.238)",34
+2,331,Hawthorne,Hawthorne,90250,16949,1961,Closed,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,10-6,10-5,10-5,Closed,86351,"12700 S. Grevillea Ave.
+Hawthorne
+(33.9172, -118.354)",35
+2,316,Lawndale,Lawndale,90260,17360,2009,Closed,1/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,11-6,11-6,10-5,Closed,76034,"14615 Burin Ave.
+Lawndale
+(33.8989, -118.354)",36
+2,333,Lennox,Lennox,90304,10800,2014,11-7,11/7/2022 12:00:00 AM,11/7/2022 12:00:00 AM,11-7,11-6,12-5,Closed,48447,"4359 Lennox Blvd.
+Lennox
+(33.9375, -118.358)",37
+2,519,Lynwood,Lynwood,90262,11722,1977,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,Closed,91709,"11320 Bullis Rd.
+Lynwood
+(33.9263, -118.2)",38
+2,320,Masao W. Satow,Gardena,90249,6639,1977,1-8,1/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,10-6,10-6,10-5,Closed,57394,"14433 S. Crenshaw Blvd.
+Gardena
+(33.9, -118.327)",39
+2,336,View Park,Los Angeles,90043,6983,1977,11-7,11/7/2022 12:00:00 AM,11/7/2022 12:00:00 AM,10-6,10-5,10-5,Closed,46560,"3854 W. 54th St.
+Los Angeles
+(33.9928, -118.341)",40
+2,535,Willowbrook,Los Angeles,90059,2200,1988,10-6,12/8/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,11-5,11-5,Closed,28403,"11838 Wilmington Ave.
+Los Angeles
+(33.9257, -118.239)",41
+2,337,Wiseburn,Hawthorne,90250,5000,1966,Closed,1/8/2022 12:00:00 AM,1/8/2022 12:00:00 AM,1-8,10-5,10-5,Closed,37853,"5335 W. 135th St.
+Hawthorne
+(33.9095, -118.373)",42
+2,338,Woodcrest,Los Angeles,90044,7254,1967,10-6,10/6/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,10-6,10-5,Closed,56525,"1340 W. 106th St.
+Los Angeles
+(33.94, -118.3)",43
+3,116,Agoura Hills,Agoura Hills,91301,17722,2001,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,11-5,10-5,10-5,Closed,98154,"29901 Ladyface Ct.
+Agoura Hills
+(34.1439, -118.776)",44
+3,117,Malibu,Malibu,90265,16530,1970,11-8,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-6,11-5,11-5,1-5,57106,"23519 W. Civic Center Way
+Malibu
+(34.0369, -118.688)",45
+3,107,San Fernando,San Fernando,91340,8601,2001,11-7,11/7/2022 12:00:00 AM,11/7/2022 12:00:00 AM,11-6,11-5,11-5,Closed,60356,"217 N. Maclay Ave.
+San Fernando
+(34.2855, -118.439)",46
+3,109,Topanga,Topanga,90290,11048,2012,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-6,10-5,1-5,57353,"122 N. Topanga Canyon Blvd.
+Topanga
+(34.0903, -118.604)",47
+3,335,West Hollywood,West Hollywood,90069,33150,2012,11-7,11/7/2022 12:00:00 AM,11/7/2022 12:00:00 AM,11-7,10-6,10-6,Closed,107162,"625 N. San Vicente Blvd.
+West Hollywood
+(34.0821, -118.383)",48
+3,118,Westlake Village,Westlake Village,91361,11500,2001,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-6,10-5,1-5,52480,"31220 Oak Crest Dr.
+Westlake Village
+(34.1443, -118.799)",49
+4,516,Alondra,Norwalk,90650,6000,1970,Closed,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,12-6,12-6,10-5,Closed,34645,"11949 E. Alondra Blvd.
+Norwalk
+(33.8877, -118.079)",50
+4,509,Angelo M. Iacoboni,Lakewood,90712,25377,1972,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,1-5,130838,"4990 Clark Ave.
+Lakewood
+(33.8497, -118.133)",51
+4,503,Artesia,Artesia,90701,5150,1968,Closed,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,10-6,9-5,9-5,Closed,43794,"18722 S. Clarkdale Ave.
+Artesia
+(33.8609, -118.08)",52
+4,322,Avalon,Avalon,90704,1256,1961,Closed,11/7/2022 12:00:00 AM,11/7/2022 12:00:00 AM,11-7,9-5,9-5,Closed,15228,"215 Sumner Ave.
+Avalon
+(33.3425, -118.327)",53
+4,505,Clifton M. Brakensiek,Bellflower,90706,20160,1975,11-8,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-6,1-5,11-5,Closed,94489,"9945 E. Flower St.
+Bellflower
+(33.8821, -118.122)",54
+4,816,Diamond Bar,Diamond Bar,91765,18245,1977,11-9,11/9/2022 12:00:00 AM,11/9/2022 12:00:00 AM,11-9,10-5,10-5,Closed,79679,"21800 Copley Dr.
+Diamond Bar
+(34.0007, -117.83)",55
+4,515,"George Nye, Jr.",Lakewood,90713,7100,1972,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,8-6,8-6,Closed,49297,"6600 Del Amo Blvd.
+Lakewood
+(33.8457, -118.103)",56
+4,815,Hacienda Heights,Hacienda Heights,91745,10398,1972,9-9,9/9/2022 12:00:00 AM,9/9/2022 12:00:00 AM,9-9,9-6,9-5,1-5,62247,"16010 La Monde St.
+Hacienda Heights
+(33.9935, -117.964)",57
+4,507,Hawaiian Gardens,Hawaiian Gardens,90716,5585,2008,Closed,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,10-6,9-5,9-5,Closed,44500,"11940 E. Carson St.
+Hawaiian Gardens
+(33.8314, -118.078)",58
+4,314,Hermosa Beach,Hermosa Beach,90254,6496,1962,Closed,11/7/2022 12:00:00 AM,12/7/2022 12:00:00 AM,12-7,12-6,10-5,Closed,47815,"550 Pier Ave.
+Hermosa Beach
+(33.8642, -118.396)",59
+4,508,La Mirada,La Mirada,90638,15704,1969,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,12-5,12-5,Closed,75018,"13800 La Mirada Blvd.
+La Mirada
+(33.9053, -118.012)",60
+4,334,Lloyd Taber-Marina Del Rey,Marina Del Rey,90292,7443,1975,11-7,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-8,12-6,10-5,Closed,60093,"4533 Admiralty Way
+Marina Del Rey
+(33.9832, -118.443)",61
+4,317,Lomita,Lomita,90717,8024,1976,Closed,2/6/2022 12:00:00 AM,2/6/2022 12:00:00 AM,2-6,2-6,11-3,Closed,20075,"24200 Narbonne Ave.
+Lomita
+(33.8052, -118.318)",62
+4,634,Los Nietos,Whittier,90606,4331,1979,12-7,12/7/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,10-5,10-5,Closed,32754,"11644 E. Slauson Ave.
+Whittier
+(33.9646, -118.067)",63
+4,318,Manhattan Beach,Manhattan Beach,90266,21500,2015,10-9,10/9/2022 12:00:00 AM,10/9/2022 12:00:00 AM,10-6,12-6,10-5,1-5,60811,"1320 Highland Ave.
+Manhattan Beach
+(33.887, -118.41)",64
+4,501,Norwalk,Norwalk,90650,33749,1969,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-8,10-6,10-5,Closed,222315,"12350 Imperial Hwy.
+Norwalk
+(33.9153, -118.069)",65
+4,511,Paramount,Paramount,90723,8750,1967,Closed,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-6,10-5,Closed,53381,"16254 Colorado Ave.
+Paramount
+(33.8858, -118.161)",66
+4,817,Rowland Heights,Rowland Heights,91748,14863,1979,9-9,9/9/2022 12:00:00 AM,9/9/2022 12:00:00 AM,9-9,9-6,9-5,1-5,82242,"1850 Nogales St.
+Rowland Heights
+(33.9845, -117.888)",67
+4,638,Sorensen,Whittier,90606,10655,2010,11-8,11/8/2022 12:00:00 AM,11/6/2022 12:00:00 AM,11-6,11-5,11-5,Closed,50924,"6934 Broadway Ave.
+Whittier
+(33.98, -118.062)",68
+4,514,South Whittier,Whittier,90604,6526,1988,12-8,12/8/2022 12:00:00 AM,12/8/2022 12:00:00 AM,11-6,10-5,10-5,Closed,58085,"14433 Leffingwell Rd.
+Whittier
+(33.9242, -118.025)",69
+5,105,Acton Agua Dulce,Acton,93510,11343,2010,10-8,10/8/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,10-5,10-5,Closed,50060,"33792 Crown Valley Road
+Acton
+(34.498, -118.198)",70
+5,111,Castaic,Castaic,91384,12250,2008,10-8,10/8/2022 12:00:00 AM,12/6/2022 12:00:00 AM,12-6,12-5,10-5,Closed,51316,"27971 Sloan Canyon Road
+Castaic
+(34.4958, -118.627)",71
+5,812,Charter Oak,Covina,91724,2500,1990,11-8,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,10-6,10-6,10-5,Closed,40824,"20540 ""K"" Arrow Highway
+Covina
+(34.1066, -117.854)",72
+5,805,Duarte,Duarte,91010,10048,1966,11-8,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,11-8,11-6,11-6,Closed,60389,"1301 Buena Vista St.
+Duarte
+(34.1381, -117.978)",73
+5,114,La Canada Flintridge,La Canada Flintridge,91011,16791,1971,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-5,10-5,Closed,70062,"4545 N. Oakwood Ave.
+La Canada Flintridge
+(34.2028, -118.194)",74
+5,115,La Crescenta,La Crescenta,91214,15010,2010,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-5,10-5,1-5,72651,"2809 Foothill Blvd.
+La Crescenta
+(34.2246, -118.24)",75
+5,807,La Verne,La Verne,91750,10347,1985,10-6,10/6/2022 12:00:00 AM,12/8/2022 12:00:00 AM,12-8,10-5,10-5,Closed,56279,"3640 D St.
+La Verne
+(34.1114, -117.764)",76
+5,106,Lake Los Angeles,Palmdale,93591,4250,1991,11-7,11/7/2022 12:00:00 AM,10/6/2022 12:00:00 AM,10-6,10-6,10-5,Closed,36836,"16921 E. Avenue O, Suite A
+Palmdale
+(34.617, -117.828)",77
+5,101,Lancaster,Lancaster,93534,48721,1996,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-5,10-5,11-5,1-5,212420,"601 W. Lancaster Blvd.
+Lancaster
+(34.6981, -118.14)",78
+5,103,Littlerock,Littlerock,93543,3680,1998,11-7,11/7/2022 12:00:00 AM,10/5/2022 12:00:00 AM,10-5,10-5,10-5,Closed,37803,"35119 80th St. East
+Littlerock
+(34.52, -117.989)",79
+5,831,Live Oak,Arcadia,91006,2891,1966,11-8,11/8/2022 12:00:00 AM,11/8/2022 12:00:00 AM,12-6,12-5,11-5,Closed,42082,"4153-55 E. Live Oak Ave.
+Arcadia
+(34.108, -118.028)",80
+5,110,Quartz Hill,Quartz Hill,93536,3530,1959,10-5,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-5,10-5,10-5,Closed,40001,"42018 N. 50th St. West
+Quartz Hill
+(34.6462, -118.218)",81
+5,808,San Dimas,San Dimas,91773,13628,1971,10-6,10/6/2022 12:00:00 AM,12/8/2022 12:00:00 AM,12-8,10-5,10-5,Closed,85350,"145 N. Walnut Ave.
+San Dimas
+(34.1082, -117.803)",82
+5,625,San Gabriel,San Gabriel,91776,13718,1967,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,12-6,12-5,10-5,Closed,66178,"500 S. Del Mar Ave.
+San Gabriel
+(34.0956, -118.099)",83
+5,126,Stevenson Ranch,Stevenson Ranch,91381,11551,2015,10-8,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,10-6,10-5,10-5,Closed,55234,"25950 The Old Rd.
+Stevenson Ranch
+(34.3932, -118.573)",84
+5,628,Temple City,Temple City,91780,12182,1962,10-6,10/8/2022 12:00:00 AM,10/8/2022 12:00:00 AM,12-8,12-5,10-5,Closed,53462,"5939 Golden West Ave.
+Temple City
+(34.1084, -118.058)",85
